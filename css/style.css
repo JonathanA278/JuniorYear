@@ -6,7 +6,7 @@ body {
 }
 
 .hero {
-    background: url('https://via.placeholder.com/1920x600') no-repeat center center;
+    /* background: url('https://via.placeholder.com/1920x600') no-repeat center center; */
     background-size: cover;
     color: #fff;
 }
